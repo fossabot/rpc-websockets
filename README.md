@@ -11,6 +11,7 @@
   <a href="https://travis-ci.org/elpheria/rpc-websockets">
 		<img src="https://travis-ci.org/elpheria/rpc-websockets.svg?branch=master">
   </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fmkozjak%2Frpc-websockets?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmkozjak%2Frpc-websockets.svg?type=shield"/></a>
   <a href="https://coveralls.io/github/elpheria/rpc-websockets?branch=master">
 		<img src="https://coveralls.io/repos/github/elpheria/rpc-websockets/badge.svg?branch=master">
   </a>
@@ -154,3 +155,6 @@ Become a sponsor and get your logo on project's README on GitHub with a link to 
 ## License
 
 This library is licensed under LGPLv3. Please see [LICENSE](LICENSE) for licensing details.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmkozjak%2Frpc-websockets.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmkozjak%2Frpc-websockets?ref=badge_large)
